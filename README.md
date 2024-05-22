@@ -9,6 +9,7 @@ Clone this repository onto your local computer (for example to your Desktop), th
 Create and activate a new Anaconda virtual environment, perhaps named "travel-env":
 
 `conda create -n travel-env python=3.7`
+
 `conda activate travel-env`
 
 Then, from within the virtual environment, install package dependencies:
